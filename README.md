@@ -1,4 +1,3 @@
 area_di_progetto
 ================
-
-placehohlder
+Questa repo sarà utilizzata per l'area di progetto per gli esami 2014/2015
